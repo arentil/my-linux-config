@@ -77,3 +77,6 @@ set wildignore=*.docx,*.jpg,*.png,*.gif,*.pdf,*.pyc,*.exe,*.flv,*.img,*.xlsx
 
 " Enable Visual Studio like color scheme
 colorscheme codedark
+
+" Show full file path
+set statusline+=%F
